@@ -1,0 +1,31 @@
+h1 {
+  color: red;           /* 英語の色名 */
+  color: #FF0000;       /* 16進数 */
+  color: rgb(255,0,0);  /* RGB値 */
+}
+
+p {
+  font-size: 16px;      /* ピクセル */
+  font-size: 1.5em;     /* 相対的な大きさ */
+  font-size: 24pt;      /* ポイント */
+}
+
+/* 太字 */
+strong {
+  font-weight: bold;
+}
+
+/* 斜体 */
+em {
+  font-style: italic;
+}
+
+/* 下線 */
+.underline {
+  text-decoration: underline;
+}
+
+/* 取り消し線 */
+.strike {
+  text-decoration: line-through;
+}
